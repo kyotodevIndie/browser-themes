@@ -1,0 +1,37 @@
+{
+    "version": "1.0",
+      "name": "stars",
+      "theme": {
+            "images" : {
+                    "theme_frame" : "imagens/frame.svg",
+                    "theme_toolbar" : "imagens/toolbar.svg",
+                    "theme_ntp_background" : "imagens/background.svg",
+                    "theme_ntp_attribution": "imagens/ntp_attribution.svg"
+            },
+    
+    "colors" : {
+                    "ntp_link": [0,0,0],
+                    "ntp_text": [0,0,205],
+                    "ntp_section_link": [255,255,255],
+                    "ntp_section_text": [255,255,255],
+                    "ntp_background": [255 , 255 , 255],
+                    "frame": [255,255,255],
+                    "toolbar": [164, 211, 238],
+                    "tab_text": [255,255,255],
+                    "tab_background_text": [0,0,0,0.3],
+                    "bookmark_text": [255,255,255],
+                    "button_background": [255,255,255]
+            },
+    
+    "tints" : {
+                    "buttons" : [-1, 0.5, 0.5],
+                    "frame_inactive": [-1, -1, -1],
+                    "frame_incognito_inactive": [0.50, 0.50, 0.50]
+            },
+    
+    "properties" : {
+                    "ntp_background_alignment" : "bottom",
+                    "ntp_background_repeat": "no-repeat"
+            }
+      }
+    }
